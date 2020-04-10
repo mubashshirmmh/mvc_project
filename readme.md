@@ -1,4 +1,1 @@
-- composer install / update
-- change your config database 
-- php artisan migrate
-- php artisan key:generate
+
